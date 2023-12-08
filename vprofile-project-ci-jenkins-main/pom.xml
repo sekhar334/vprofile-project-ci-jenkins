@@ -163,8 +163,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>maven</id>
-      <url>http://50.18.21.20:8081/repository/maven/</url>
+      <id>{NEXUS-GRP-REPO}</id>
+      <url>http://54.67.84.228:8081/repository/mavengrp</url>
     </repository>
   </repositories>
 </project>
